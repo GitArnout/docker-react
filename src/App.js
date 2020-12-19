@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload. Hallo!! Doet dit het? jjjdd I was changed dsfs223 
+          Edit <code>src/App.js</code> and save to reload. I was changed in a feauture branch
         </p>
         <a
           className="App-link"
